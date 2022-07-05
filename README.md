@@ -15,3 +15,6 @@ Model you can find in `boars_GAN.ipunb` file.
 ### Results
 
 ![generated](generated-images-0999.png)
+
+![score](best_score.png)
+![loss](best_loss.png)
